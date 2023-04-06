@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Artificial intelligence Project 
 
-[Project 1 Title](/sample_page)
+[Customization of respiratory face masks](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
