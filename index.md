@@ -11,7 +11,7 @@ Improved data collection and pipeline for automation of custom breathing mask ge
 I designed a protocol to calculate the bias between a mobile and industrial 3D scanning solution to simplify the process of design.
 
 This work leads to a publication and presentation of scientific paper for the international 3DBodytech conference in October 2022 in Switzerland.
-<img src="images/presentation?raw=true"/>
+<img src="images/presentation.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
