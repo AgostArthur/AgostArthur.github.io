@@ -1,12 +1,10 @@
-## Portfolio
-
+## AI Project 
 ---
 
-### Artificial intelligence Project 
-
-[Customization of respiratory face masks](/sample_page)
+# [Customization of respiratory face masks](/sample_page)
 <img src="images/mask gif1.gif?raw=true"/>
 
+**Project description:**   
 Improved data collection and pipeline for automation of custom breathing mask generation by using AI to detect automaticaly the landmarks of heads.
 I designed a protocol to calculate the bias between a mobile and industrial 3D scanning solution to simplify the process of design.
 
