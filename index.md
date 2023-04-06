@@ -17,19 +17,27 @@
 
 ---
 
-### Category Name 2
+### Other project
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Automated generation of personalized breathing mask from a snapshot
+Data Processing - Deep learning - Tensorflow - Python
 
+Automatic detection of erosion problems on wind turbine blades
+Computer vision - CNN network - OpenCV - Python
+
+Real time tracking of basketball players
+Computer vision - OpenCV - CNN network - Python
+
+Sport bet prediction using player stats 
+Machine learning - Random forest - Python
+
+Transport mode prediction based on smartphone data 
+Machine learning - Decision tree - Weka - Java - Android App
 ---
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">
 <!-- Remove above link if you don't want to attibute -->
