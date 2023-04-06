@@ -19,20 +19,21 @@
 
 ### Other project
 
-Automated generation of personalized breathing mask from a snapshot
+# Automated generation of personalized breathing mask from a snapshot      
 Data Processing - Deep learning - Tensorflow - Python
 
-Automatic detection of erosion problems on wind turbine blades
+# Automatic detection of erosion problems on wind turbine blades      
 Computer vision - CNN network - OpenCV - Python
 
-Real time tracking of basketball players
+# Real time tracking of basketball players    
 Computer vision - OpenCV - CNN network - Python
 
-Sport bet prediction using player stats 
+# Sport bet prediction using player stats    
 Machine learning - Random forest - Python
 
-Transport mode prediction based on smartphone data 
+# Transport mode prediction based on smartphone data   
 Machine learning - Decision tree - Weka - Java - Android App
+
 ---
 
 
