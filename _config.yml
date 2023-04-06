@@ -1,11 +1,17 @@
 title: Agostini Arthur # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am a young data science engineer with a sense of humor as elegant as my code. 
+  Passionate about new technologies, space exploration, and the blockchain environment (yes, I am a bit of a geek). 
+  With a solid academic background, I have participated in many different projects that have allowed me to develop 
+  my data collection, processing, and analysis skills. My commitment to discovering new technologies and continuously 
+  learning has led me to present my latest work at the 3DBodyTech 2022 conference. This experience has pushed me out 
+  of my comfort zone. Always ready to meet new people and collaborate on exciting projects that will allow me to 
+  continue learning and growing as a professional while surrounded by a dynamic and inspiring environment.
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/arthur-agostini-a17287160/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
