@@ -11,6 +11,8 @@ I designed a protocol to calculate the bias between a mobile and industrial 3D s
 This work leads to a publication and presentation of scientific paper for the international 3DBodytech conference in October 2022 in Switzerland.
 <img src="images/presentation.jpg?raw=true"/>
 
+<a href="https://3dbody.tech/cap/papers/2022/2244agostini.pdf"> View my Article </a>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
