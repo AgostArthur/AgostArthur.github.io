@@ -15,12 +15,21 @@ This work leads to a publication and presentation of scientific paper for the in
 
 ---
 # [Computer Vision applied to basketball game](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 
 **Project description:**   
-The main objectif of this project is to ba able, in real time idealy, add a display for the tracking of the basketball player.
+The main objectif of this project is to be able, in real time ideally, add a display for the tracking of the basketball player.
 The display should show the name of the player. 
+ 
+
+##The first step is the detection of the basket court
+<img src="images/basketball detection.png?raw=true"/>
+
+
+
+##The second step is the detection of the players
+<img src="images/palyer detection.png?raw=true"/>
+
+
 
 ---
 [Project 3 Title](http://example.com/)
