@@ -32,11 +32,6 @@ The second step is the player's detection
 <img src="images/palyer detection.png?raw=true"/>
 
 
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ### Other project
@@ -63,4 +58,3 @@ Machine learning - Decision tree - Weka - Java - Android App
 
 ---
 <p style="font-size:11px">
-<!-- Remove above link if you don't want to attibute -->
