@@ -21,12 +21,14 @@ The main objectif of this project is to be able, in real time ideally, add a dis
 The display should show the name of the player. 
  
 
-##The first step is the detection of the basket court
+The first step is to detect the basketball court.
+Using OpenCV and applying several filters, we can highlight the strong color variations to find the edges of the objects present in the image. 
+We notice that the edges of the court are straight lines. These lines are used to detect the area of interest. Thus will be interested only in people present in this area.
+
 <img src="images/basketball detection.png?raw=true"/>
 
 
-
-##The second step is the detection of the players
+The second step is the player's detection
 <img src="images/palyer detection.png?raw=true"/>
 
 
