@@ -14,8 +14,13 @@ This work leads to a publication and presentation of scientific paper for the in
 <a href="https://3dbody.tech/cap/papers/2022/2244agostini.pdf"> View my Article </a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+# [Computer Vision applied to basketball game](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+**Project description:**   
+The main objectif of this project is to ba able, in real time idealy, add a display for the tracking of the basketball player.
+The display should show the name of the player. 
 
 ---
 [Project 3 Title](http://example.com/)
