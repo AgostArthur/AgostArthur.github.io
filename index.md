@@ -12,6 +12,11 @@ The main goal of this work is to be able with a single snapshot made with a ipho
 Improved data collection and pipeline for automation of custom breathing mask generation by using AI to detect automaticaly the landmarks of heads.
 I designed a protocol to calculate the bias between a mobile and industrial 3D scanning solution to improve the process of design.
 
+<img src="images/3D printing.png?raw=true"/>
+
+
+
+
 This work leads to a publication and presentation of scientific paper for the international 3DBodytech conference in October 2022 in Switzerland.
 <img src="images/presentation.jpg?raw=true"/>
 
